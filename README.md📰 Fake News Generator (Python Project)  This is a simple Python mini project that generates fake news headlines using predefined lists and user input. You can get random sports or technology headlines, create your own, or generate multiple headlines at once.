@@ -1,0 +1,33 @@
+📰 Fake News Generator (Python Project)
+
+This is a simple Python mini project that generates fake news headlines using predefined lists and user input.
+You can get random sports or technology headlines, create your own, or generate multiple headlines at once.
+
+📌 Features
+
+Generates random sports headlines
+
+Generates random technology headlines
+
+Allows you to create custom headlines
+
+Generate multiple headlines at once
+
+Interactive and easy-to-use command-line interface.
+
+
+🧾 Example Headlines
+
+Sports News: Team India breaks IPL match in Australia
+
+Technology News: Google launches new AI robot in India
+
+Custom News: Elon Musk develops electric car in USA
+
+Multiple Headlines:
+
+Barcelona loses final match in Dubai
+
+Microsoft upgrades app in China
+
+Tesla tests electric car in Japan
